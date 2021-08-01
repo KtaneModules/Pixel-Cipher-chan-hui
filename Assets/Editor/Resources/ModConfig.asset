@@ -14,7 +14,7 @@ MonoBehaviour:
   id: pixelcipher
   title: Pixel Cipher
   author: Piissii
-  description: 'Pixel Cipher 1.1
+  description: 'Pixel Cipher 1.2
 
     which part of this module is ''cipher''?!
 
@@ -25,6 +25,6 @@ MonoBehaviour:
     Manual available here:
 
     https://ktane.timwi.de/HTML/Pixel%20Cipher.html'
-  version: 1.1
+  version: 1.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: f148213bdd430b44ab26f70785602b67, type: 3}

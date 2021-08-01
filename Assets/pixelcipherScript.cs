@@ -391,7 +391,7 @@ public class pixelcipherScript : MonoBehaviour {
 	}
 
 	IEnumerator Solved(){
-		List<String> SolveMessage = new List<String>(new String[] {"WE DID IT REDDIT!","GG","NICELY DONE","EZ","POGCHAMP","POGGERS!"});
+		List<String> SolveMessage = new List<String>(new String[] {"WE DID IT REDDIT!","GG","NICELY DONE","EZ","POGCHAMP","POGGERS!","*CLAPS*\nYOU ARE GREAT"});
 		SolveMessage.Shuffle();
 		foreach(GameObject obj in textDisplay){
 			obj.GetComponent<TextMesh>().text = SolveMessage[0];
